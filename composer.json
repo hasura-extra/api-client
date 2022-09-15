@@ -15,12 +15,12 @@
     },
     "conflict": {
         "hasura-extra/hasura-bundle": "*",
-        "hasura-extra/sailor-bridge": "<3.0.0",
-        "hasura-extra/auth-hook": "<3.0.0",
-        "hasura-extra/event-dispatcher": "<3.0.0",
-        "hasura-extra/bundle": "<3.0.0",
-        "hasura-extra/graphqlite-bridge": "<3.0.0",
-        "hasura-extra/metadata": "<3.0.0",
+        "hasura-extra/sailor-bridge": "<3.2.0",
+        "hasura-extra/auth-hook": "<3.2.0",
+        "hasura-extra/event-dispatcher": "<3.2.0",
+        "hasura-extra/bundle": "<3.2.0",
+        "hasura-extra/graphqlite-bridge": "<3.2.0",
+        "hasura-extra/metadata": "<3.2.0",
         "hasura-extra/laravel": "<2.5.0"
     },
     "require": {
@@ -32,7 +32,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-main": "3.1-dev"
+            "dev-main": "3.2-dev"
         }
     },
     "minimum-stability": "dev",
